@@ -1,0 +1,113 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: rgb(44, 82, 83);
+    color: rgb(255, 253, 253);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    background-color: rgb(115, 193, 196);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 23px;
+    color:rgb(9, 49, 90);
+}
+
+p2 {
+    font-size: 23px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.first button {
+    background-color: rgb(83, 70, 70);
+    padding: 2px;   
+    border-radius: 5px;
+}
+
+.search button {
+    color: white;
+    background-color: black;
+}
+
+.first {
+    width: 80%;
+    border: 2px solid;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 25px;
+}
+
+.search {
+    float:right;
+}
+
+h2 {
+    width: 56%;
+    padding: 0px;
+    margin: -13px;
+    text-align: right;
+    font-size: 32px;
+    text-decoration: underline;
+    }
+
+button{
+    background-color: rgb(10, 9, 9);
+
+}
+
+.science {
+    background-color: black;
+    margin:5px;
+    padding: 15px;
+    border-radius: 5px;
+    position: fixed;
+    top: 200px;
+    right: 10px;   
+}
+
+.sport {
+    background-color: black;
+    margin:5px;
+    padding: 15px;
+    padding-right: 22px;
+    border-radius: 5px;
+    position: fixed;
+    top: 250px;
+    right: 10px;   
+}
+
+.health {
+    background-color: black;
+    margin:5px;
+    padding: 15px;
+    padding-right: 21px;
+    border-radius: 5px;
+    position: fixed;
+    top: 300px;
+    right: 10px;   
+}
+
+.movie {
+    background-color: black;
+    margin:5px;
+    padding: 15px;
+    border-radius: 5px;
+    position: fixed;
+    top: 350px;
+    right: 10px; 
+}
+
+.flooter{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
